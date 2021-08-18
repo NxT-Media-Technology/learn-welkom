@@ -10,3 +10,7 @@
 * [You rock!](you-rock/README.md)
   * [Bijdragen](you-rock/bijdragen.md)
 
+## Appendix
+
+* [Gebruikte bronnen](appendix/bronnen.md)
+
