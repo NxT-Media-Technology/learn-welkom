@@ -1,10 +1,12 @@
 # Table of contents
 
 * [Welkom](README.md)
-* [Bijdragen](bijdragen-aan-de-opleiding-van-onze-studenten.md)
-* [Web developer](web-developer/README.md)
-  * [Web development](web-developer/web-development.md)
-  * [Backend development](web-developer/backend-development.md)
-  * [Frontend development](web-developer/frontend-development.md)
-  * [Performance marketing](web-developer/performance-marketing.md)
+* [Profielen](profielen/README.md)
+  * [Web developer](profielen/web-developer/README.md)
+    * [Web development](profielen/web-developer/web-development.md)
+    * [Backend development](profielen/web-developer/backend-development.md)
+    * [Frontend development](profielen/web-developer/frontend-development.md)
+    * [Performance marketing](profielen/web-developer/performance-marketing.md)
+* [You rock!](you-rock/README.md)
+  * [Bijdragen](you-rock/bijdragen.md)
 

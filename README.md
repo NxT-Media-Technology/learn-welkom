@@ -8,7 +8,7 @@ De beschikbare cursussen zijn publiek toegankelijk en beschikbaar onder de creat
 
 ## Profielen
 
-{% page-ref page="web-developer/" %}
+{% page-ref page="profielen/web-developer/" %}
 
 
 
