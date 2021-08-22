@@ -1,2 +1,2 @@
-# Profielen
+# Cursussen per profiel
 
