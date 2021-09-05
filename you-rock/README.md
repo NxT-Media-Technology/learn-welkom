@@ -21,7 +21,7 @@ Voor de specifieke gitbook mogelijkheden in markdown kan je hier terecht: [https
 
 De waarom is makkelijk. Hoewel velen van ons \(docenten\) meestal met nog 1 been in het werkveld staan zijn wij in de eerste plaats docenten. We doen ons best maar het is zeer moeilijk om op een experten niveau te blijven met dergelijk breed aanbod aan materie. Daarom lijkt het ons super interessant dat jullie: werkveld, alumni en zelfs studenten ons hiermee kunnen helpen. **Samen staan we sterk, right?**
 
-#### Mini courses
+### Mini Courses
 
 Naast het **verbeteren en verrijken** van onze cursussen denken wij dat het ook fantastisch zou zijn dat **werkveld partners eigen mini courses kunnen toevoegen**. Hierdoor kan je zelf als bedrijf mee **sturen** waar **onze studenten mee in aanraking komen** en zo al een extra **stap voor** hebben als ze later **collega's** zouden worden.
 

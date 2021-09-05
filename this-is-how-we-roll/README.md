@@ -1,6 +1,6 @@
 # 🎢 This is how we roll
 
-### Introductie
+## Introductie
 
 Bij alle **web developer** profielen werken we met een portfolio.
 
@@ -17,7 +17,7 @@ Een portfolio bestaat uit:
 
 Dit portfolio wordt tijdens het examengesprek besproken met meerdere beoordelaars en deze zullen op basis van dit examengesprek en het ingeleverde portfolio een cijfer toekennen. Als het portfolio niet \(tijdig\) wordt ingediend, kan er geen examengesprek doorgaan.
 
-### Evaluatie
+## Evaluatie
 
 {% hint style="info" %}
 Deze evaluatie verdeling geld voor zowel 1ste als 2de zit.
@@ -27,4 +27,14 @@ Deze evaluatie verdeling geld voor zowel 1ste als 2de zit.
 | :--- | :--- | :--- |
 | Portfolio | 60% | Google doc waar je netjes alles georganiseerd en gestructureerd hebt gedocumenteerd. |
 | Examengesprek | 40% | Tijdens het examengesprek geef je aanvullende toelichting en verantwoording over je persoonlijk portfolio. |
+
+### Rubric for portfolio-based assessment
+
+_Bron:_ [_Stark State college_](https://www.starkstate.edu/)\_\_
+
+![](../.gitbook/assets/cleanshot-2021-09-05-at-23.31.34.jpg)
+
+![](../.gitbook/assets/cleanshot-2021-09-05-at-23.31.56.jpg)
+
+![](../.gitbook/assets/cleanshot-2021-09-05-at-23.32.12.jpg)
 

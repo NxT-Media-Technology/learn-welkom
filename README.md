@@ -1,7 +1,5 @@
 # Welkom
 
-## Intro
-
 Welkom bij de online cursus bibliotheek van Karel de Grote Hogeschool - Multimedia & Creative Technologies. Op deze pagina vind je een overzicht van alle profielen en online cursussen die op dit platform.
 
 {% hint style="warning" %}
@@ -10,15 +8,21 @@ De beschikbare cursussen zijn publiek toegankelijk en beschikbaar onder de creat
 
 ![https://creativecommons.org/licenses/by-nc/4.0/](.gitbook/assets/cleanshot-2021-09-05-at-23.21.32.jpg)
 
-## Hoe werken we
+## Portfolio's? Hoe werkt dat?
+
+Chances are dat je nog nooit met een portfolio hebt gewerkt om je leerproces te documenteren. Hier vind je enkele tips en tricks en welke rubric \(evaluatie methode\) we gebruiken om je te evalueren.
 
 {% page-ref page="this-is-how-we-roll/" %}
 
-## Bijdragen aan onze cursus?
+## Bedrijven, alumni, ... We need you!
+
+Het idee achter deze publieke online cursus is dat deze verrijkt kan worden door alumni en werkveld. Klik snel door en kijk how you can rock our world! 🙌
 
 {% page-ref page="you-rock/" %}
 
 ## Profielen
+
+Onder de profielen kan je alle beschikbare online cursussen vinden.
 
 {% page-ref page="profielen/web-developer/" %}
 
