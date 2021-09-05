@@ -20,10 +20,15 @@ Deze bedrijven hebben persoonlijk bijgedragen tot [learn.mctantwerp.be](https://
 
 * [Karel de Grote Hogeschool](https://www.kdg.be)
 
-## Meer helden
+## Hall of fame
 
 Als we dan toch bezig zijn ook een extra dank u aan deze bedrijven die samenwerken met [MCT Antwerp](https://www.kdg.be/multimedia-creative-technologies) door structureel gastlessen, stageplaatsen of andere samenwerkingen te voorzien.
 
+* [Artcore Society](https://www.artcoresociety.com/)
+* [Calibrate](https://www.calibrate.be/nl)
+* [Digiti](https://www.digiti.be/)
+* [Lunar](https://lunar.be/)
 * [Spatie](https://spatie.be)
 * [Interacto](https://interacto.be)
+* [Wunderman Thompson](https://www.wundermanthompson.com/belgium)
 
