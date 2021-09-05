@@ -4,7 +4,7 @@ description: >-
   en onze opleiding.
 ---
 
-# Met de steun van...
+# 🙏 Met de steun van...
 
 ## Mensen
 

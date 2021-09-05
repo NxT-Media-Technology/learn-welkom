@@ -1,4 +1,4 @@
-# Frontend development
+# 🧑‍🎨 Frontend development
 
 ### Inhoudsopgave
 
