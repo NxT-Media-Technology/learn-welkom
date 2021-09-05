@@ -2,7 +2,8 @@
 
 * [Welkom](README.md)
 * [This is how we roll](this-is-how-we-roll.md)
-* [You rock!](you-rock.md)
+* [You rock!](you-rock/README.md)
+  * [Met de steun van...](you-rock/met-de-steun-van....md)
 * [Cursussen per profiel](profielen/README.md)
   * [Web developer](profielen/web-developer/README.md)
     * [Web development](profielen/web-developer/web-development.md)
