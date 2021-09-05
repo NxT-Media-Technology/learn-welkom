@@ -23,7 +23,7 @@ Dit portfolio wordt tijdens het examengesprek besproken met meerdere beoordelaar
 Deze evaluatie verdeling geld voor zowel 1ste als 2de zit.
 {% endhint %}
 
-| % | Opmerking |  |
+| Wat? | % | Opmerking |
 | :--- | :--- | :--- |
 | Portfolio | 60% | Google doc waar je netjes alles georganiseerd en gestructureerd hebt gedocumenteerd. |
 | Examengesprek | 40% | Tijdens het examengesprek geef je aanvullende toelichting en verantwoording over je persoonlijk portfolio. |
