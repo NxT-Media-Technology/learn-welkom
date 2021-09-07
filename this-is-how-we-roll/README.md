@@ -30,6 +30,8 @@ Deze evaluatie verdeling geld voor zowel 1ste als 2de zit.
 
 ### Rubric for portfolio-based assessment
 
+Een goede leidraad voor hoe je zelf kan beoordelen of uw portfolio voldoende "body" heeft. Uiteraard werkt de scoring bij ons net wat anders maar voor zelf evaluatie een ideale tool!
+
 _Bron:_ [_Stark State college_](https://www.starkstate.edu/)\_\_
 
 ![](../.gitbook/assets/cleanshot-2021-09-05-at-23.31.34.jpg)
