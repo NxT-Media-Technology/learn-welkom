@@ -7,7 +7,7 @@
 * [https://docs.gitbook.com/editing-content/markdown](https://docs.gitbook.com/editing-content/markdown)
 * [https://github.com/mctantwerp](https://github.com/mctantwerp)
 
-### Websites gebruikt voor opstellen van inhoud
+### Website of andere bronnen die gebruikt zijn voor het opstellen van de inhoud
 
-* [https://www.starkstate.edu/](https://www.starkstate.edu/)
+[https://www.starkstate.edu/](https://www.starkstate.edu/)
 
