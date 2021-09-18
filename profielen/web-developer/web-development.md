@@ -5,7 +5,7 @@
 | Hoofstuk | Omschrijving |
 | :--- | :--- |
 | [Web Performance](https://learn.mctantwerp.be/web-performance/) | Alle tips & tricks om je website zo performant mogelijk te maken |
-| Hosting |  |
+| [Devops basics](https://learn.mctantwerp.be/devops-basics/) | Alles dat je moet weten rond hosting om je website online te kunnen zetten. |
 | Git |  |
 | Databases |  |
 | Devops |  |
