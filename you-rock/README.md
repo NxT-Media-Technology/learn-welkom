@@ -1,5 +1,11 @@
 # 🦸‍♂️ You rock!
 
+## Bedrijven, alumni, ... We need you!
+
+{% hint style="info" %}
+Het idee achter deze publieke online cursus is dat deze verrijkt kan worden door alumni en werkveld.
+{% endhint %}
+
 Heb je tijd en zin om ons te **helpen** om binnen onze **cursussen** de puntjes op de ‘i’ te zetten? Of wil je **bijdragen** door je **expertise** te **delen** om bij te dragen bij aan de opleiding van onze student en op die manier de opleiding voor onze studenten kwaliteitsvoller te maken? **Dat kan!**
 
 Snelle aanpassingen kan je doen door een **pull request** te doen met de gewenste changes. Wil je **meer doen** en een **hoofdstuk of mini course** toevoegen? Ook dat kan! Contacteer [sam.serrien@kdg.be](mailto:sam.serrien@kdg.be) om een **account** op onze **gitbook** te krijgen zodat je gebruik kan maken van al de **rijke features** die deze software biedt.
