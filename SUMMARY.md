@@ -2,6 +2,8 @@
 
 * [Welkom](README.md)
 * [🎢 This is how we roll](this-is-how-we-roll/README.md)
+  * [📂 Portfolio](this-is-how-we-roll/portfolio.md)
+  * [📸 Aanwezigheid](this-is-how-we-roll/aanwezigheid.md)
   * [👑 Portfolio King or Queen](this-is-how-we-roll/portfolio-king-or-queen.md)
 * [🦸‍♂️ You rock!](you-rock/README.md)
   * [🙏 Met de steun van...](you-rock/met-de-steun-van....md)

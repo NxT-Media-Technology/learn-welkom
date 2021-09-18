@@ -15,6 +15,14 @@ Een portfolio bestaat uit:
 * Zelfreflectie i.f.v. het autodidactisch proces
 * Vaardigheid en/of kennis toetsen om formatief te toetsen
 
+Iets meer in mensentaal:
+
+* Wat je gedaan hebt: Opdrachten, onderzoek, lessen die je hebt gevolgd,...
+* Wat je over de dingen denkt \(zelfreflectie\) en wat je denkt over uw process hierin
+* Hoe het loopt of niet loopt \(wat gaat er goed, wat gaat er slecht\)
+* Welke learning video's je hebt gevolgd, welke certificaten je hebt behaald \(include screenshots!\)
+* Indien van toepassing: welke badges je gehaald hebt.
+
 Dit portfolio wordt tijdens het examengesprek besproken met meerdere beoordelaars en deze zullen op basis van dit examengesprek en het ingeleverde portfolio een cijfer toekennen. Als het portfolio niet \(tijdig\) wordt ingediend, kan er geen examengesprek doorgaan.
 
 ## Evaluatie
