@@ -26,9 +26,10 @@ Als we dan toch bezig zijn ook een extra dank u aan deze bedrijven die samenwerk
 
 * [Artcore Society](https://www.artcoresociety.com/)
 * [Calibrate](https://www.calibrate.be/nl)
+* [Combell](https://www.combell.com)
 * [Digiti](https://www.digiti.be/)
+* [Interacto](https://interacto.be)
 * [Lunar](https://lunar.be/)
 * [Spatie](https://spatie.be)
-* [Interacto](https://interacto.be)
 * [Wunderman Thompson](https://www.wundermanthompson.com/belgium)
 
