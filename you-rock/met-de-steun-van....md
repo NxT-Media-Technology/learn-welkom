@@ -28,7 +28,7 @@ Als we dan toch bezig zijn ook een extra dank u aan deze bedrijven die samenwerk
 * [Calibrate](https://www.calibrate.be/nl)
 * [Combell](https://www.combell.com)
 * [Digiti](https://www.digiti.be/)
-* [Interacto](https://interacto.be)
+* [Intracto](https://intracto.be)
 * [Lunar](https://lunar.be/)
 * [Spatie](https://spatie.be)
 * [Wunderman Thompson](https://www.wundermanthompson.com/belgium)
