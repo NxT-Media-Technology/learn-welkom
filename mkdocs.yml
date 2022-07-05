@@ -2,10 +2,26 @@ site_name: Multimedia & Creatieve Technologie
 copyright: Copyright &copy; Karel de Grote Hogeschool
 repo_url: https://github.com/mctantwerp/learn-welkom
 repo_name: mctantwerp/learn-welkom
-# plugins:
-#   - git-committers:
-#       repository: mctantwerp/learn-welkom
-#       token: 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
+
+extra_css:
+  - _resources/styles/main.css
+
+nav:
+  - "👋 Welkom": index.md
+  - "🎢 This is how we roll":
+    - this-is-how-we-roll/index.md
+    - this-is-how-we-roll/portfolio.md
+    - this-is-how-we-roll/aanwezigheid.md
+    - this-is-how-we-roll/portfolio-king-or-queen.md
+  - "🦸‍♂️ You rock!":
+    - you-rock/index.md
+    - you-rock/bijdragen.md
+    - you-rock/met-de-steun-van.md
+  - "📚 Cursussen per profiel":
+    - profielen/web-developer.md
+  - "❓ Appendix":
+    - appendix/index.md
+
 markdown_extensions:
   - admonition
   - pymdownx.details
@@ -18,6 +34,23 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
+
+theme:
+  name: material
+  logo: _resources/graphics/logo_full.png
+  favicon: _resources/graphics/favicon.ico
+  language: nl
+  features:
+    - navigation.tracking
+    - navigation.instant
+    - navigation.top
+    - navigation.indexes
+  icon:
+    repo: fontawesome/brands/github
+  palette:
+    primary: black
+    accent: cyan
+
 extra:
   consent:
     title: Cookie consent
@@ -45,33 +78,15 @@ extra:
             using our <a href="..." target=_blank>feedback form</a>.
   generator: false
   social:
+    - icon: fontawesome/brands/instagram
+      link: https://www.instagram.com/mct.kdg/
+    - icon: fontawesome/brands/youtube
+      link: https://www.youtube.com/channel/UCVcQd6yzdN9kW16sXuN_8zQ
+    - icon: fontawesome/brands/github
+      link: https://github.com/mctantwerp
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/school/karel-de-grote-hogeschool/
     - icon: fontawesome/brands/twitter
       link: https://twitter.com/mctantwerp
     - icon: fontawesome/brands/vimeo
-      link: https://twitter.com/mctantwerp
-    - icon: fontawesome/brands/instagram
-      link: https://twitter.com/mctantwerp
-    - icon: fontawesome/brands/youtube
-      link: https://twitter.com/mctantwerp
-    - icon: fontawesome/brands/linkedin
-      link: https://twitter.com/mctantwerp
-    - icon: fontawesome/brands/discord
-      link: https://twitter.com/mctantwerp
-    - icon: fontawesome/brands/github
-      link: https://github.com/mctantwerp
-extra_css:
-  - _resources/styles/main.css
-theme:
-  name: material
-  logo: _resources/graphics/logo_full.png
-  favicon: _resources/graphics/favicon.ico
-  language: nl
-  features:
-    - navigation.tracking
-    - navigation.instant
-    - navigation.top
-  icon:
-    repo: fontawesome/brands/github
-  palette:
-    primary: black
-    accent: cyan
+      link: https://vimeo.com/mctantwerp

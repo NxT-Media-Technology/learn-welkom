@@ -4,9 +4,8 @@
 
 Bij alle **web developer** profielen werken we met een portfolio.
 
-{% hint style="info" %}
-Een portfolio is een door de student gemaakte doelgerichte verzameling van documentatiemateriaal uit verschillende bronnen. Naast dit materiaal maken schriftelijke beschouwingen \(zelfanalyse of reflectie\) van de student deel uit van een portfolio.
-{% endhint %}
+!!! info ""
+    Een portfolio is een door de student gemaakte doelgerichte verzameling van documentatiemateriaal uit verschillende bronnen. Naast dit materiaal maken schriftelijke beschouwingen \(zelfanalyse of reflectie\) van de student deel uit van een portfolio.
 
 Een portfolio bestaat uit:
 
@@ -27,9 +26,8 @@ Dit portfolio wordt tijdens het examengesprek besproken met meerdere beoordelaar
 
 ## Evaluatie
 
-{% hint style="info" %}
-Deze evaluatie verdeling geld voor zowel 1ste als 2de zit.
-{% endhint %}
+!!! error ""
+    Deze evaluatie verdeling geld voor zowel 1ste als 2de zit.
 
 | Wat? | % | Opmerking |
 | :--- | :--- | :--- |
@@ -40,11 +38,10 @@ Deze evaluatie verdeling geld voor zowel 1ste als 2de zit.
 
 Een goede leidraad voor hoe je zelf kan beoordelen of uw portfolio voldoende "body" heeft. Uiteraard werkt de scoring bij ons net wat anders maar voor zelf evaluatie een ideale tool!
 
-_Bron:_ [_Stark State college_](https://www.starkstate.edu/)\_\_
+_Bron:_ [_Stark State college_](https://www.starkstate.edu/)
 
-![](../.gitbook/assets/cleanshot-2021-09-05-at-23.31.34.jpg)
+![](/_resources/images/rubric.jpg)
 
-![](../.gitbook/assets/cleanshot-2021-09-05-at-23.31.56.jpg)
+![](/_resources/images/portfolio_exp.jpg)
 
-![](../.gitbook/assets/cleanshot-2021-09-05-at-23.32.12.jpg)
-
+![](/_resources/images/assessment_guide.jpg)

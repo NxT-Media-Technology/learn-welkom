@@ -11,12 +11,11 @@
 * Bekijk ook zeker de tips & tricks voor een goed portfolio
 * Grote codeblokken houd je op [github](https://github.com) en niet in je portfolio.
 
-{% page-ref page="portfolio-king-or-queen.md" %}
+[Become a portfolio King or Queen :material-arrow-right:](../portfolio-king-or-queen){ .md-button }
 
 ## Feedback
 
 * De docenten geven feedback via de comments. Als je deze verwerkt hebt kan je deze _afvinken_. Je mag ook steeds op comments van ons reageren voor extra feedback of vragen.
 * Je zal ook telkens op elke sendin een kleurcode krijgen die toont hoe je ervoor staat met uw portfolio.
 
-![](../.gitbook/assets/cleanshot-2021-09-18-at-14.08.32.jpg)
-
+![](/_resources/images/feedback.jpg)
