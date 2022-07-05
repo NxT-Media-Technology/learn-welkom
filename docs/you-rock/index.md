@@ -10,16 +10,14 @@ Heb je tijd en zin om ons te **helpen** om binnen onze **cursussen** de puntjes 
 Snelle aanpassingen kan je doen door een **pull request** te doen met de gewenste changes. Wil je **meer doen** en een **hoofdstuk of mini course** toevoegen? Ook dat kan! Contacteer [sam.serrien@kdg.be](mailto:sam.serrien@kdg.be) om een **account** op onze **gitbook** te krijgen zodat je gebruik kan maken van al de **rijke features** die deze software biedt.
 
 !!! info ""
-    Op elke pagina staat er een _`edit on github`_ link zodat je de gewenste pagina snel kan terugvinden op github.
+    Op elke pagina staat er een :fontawesome-solid-pen: door hier op te klikken kan je de gewenste pagina snel kan terugvinden op github.
 
 Je vindt al onze cursussen terug op [github.com/mctantwerp](https://github.com/mctantwerp), de repositories van onze cursussen starten allemaal met **"learn-**" in hun naam.
 
-In de gitbook pagina's kan je normale markdown gebruiken die aangevuld wordt met gitbook specifieke markdown.
-
 !!! info ""
-    Markdown hulp nodig? Zie [https://commonmark.org/help/](https://commonmark.org/help/)
+    Markdown hulp nodig? Zie [https://commonmark.org/help/](https://commonmark.org/help/){:target="_blank"}
 
-    Voor de specifieke gitbook mogelijkheden in markdown kan je hier terecht: [https://docs.gitbook.com/editing-content/markdown](https://docs.gitbook.com/editing-content/markdown)
+    Voor de specifieke MkDocs/Material theme mogelijkheden in markdown kan je hier terecht: [https://squidfunk.github.io/mkdocs-material/reference/](https://squidfunk.github.io/mkdocs-material/reference/){:target="_blank"}
 
 ### Nog meer bijdragen?
 

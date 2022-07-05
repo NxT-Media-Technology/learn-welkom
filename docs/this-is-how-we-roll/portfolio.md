@@ -2,9 +2,9 @@
 
 ## Het document
 
-* Een portfolio is een **google doc** en niets anders. \(dus ook geen word document dat je op google drive zet, je start met een google doc\)
+* Een portfolio is een **google doc** en niets anders. (dus ook geen word document dat je op google drive zet, je start met een google doc)
 * Een portfolio is open maar de docenten zullen voor sturing zorgen
-  * Afwijken van deze sturing mag en kan \(en wordt zelf aangemoedigd\) maar doet dit altijd in samenspraak met je docenten
+  * Afwijken van deze sturing mag en kan (en wordt zelf aangemoedigd) maar doet dit altijd in samenspraak met je docenten
 * Er zullen verschillende momenten voorzien worden om je portfolio in te sturen zodat wij, de docenten, daar feedback op kunnen geven.
   * Afhankelijk van het aantal studenten kan het altijd even duren eer je feedback krijgt. Be patient! We doen ons best om altijd iedereen van feedback te voorzien.
   * Niet ingestuurd via canvas = geen feedback

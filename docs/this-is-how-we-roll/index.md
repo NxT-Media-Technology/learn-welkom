@@ -2,10 +2,10 @@
 
 ## Introductie
 
-Bij alle **web developer** profielen werken we met een portfolio.
+Bij alle **web developer** en **UX/UI** profielen werken we met een portfolio.
 
 !!! info ""
-    Een portfolio is een door de student gemaakte doelgerichte verzameling van documentatiemateriaal uit verschillende bronnen. Naast dit materiaal maken schriftelijke beschouwingen \(zelfanalyse of reflectie\) van de student deel uit van een portfolio.
+    Een portfolio is een door de student gemaakte doelgerichte verzameling van documentatiemateriaal uit verschillende bronnen. Naast dit materiaal maken schriftelijke beschouwingen (zelfanalyse of reflectie) van de student deel uit van een portfolio.
 
 Een portfolio bestaat uit:
 
@@ -17,12 +17,12 @@ Een portfolio bestaat uit:
 Iets meer in mensentaal:
 
 * Wat je gedaan hebt: Opdrachten, onderzoek, lessen die je hebt gevolgd,...
-* Wat je over de dingen denkt \(zelfreflectie\) en wat je denkt over uw process hierin
-* Hoe het loopt of niet loopt \(wat gaat er goed, wat gaat er slecht\)
-* Welke learning video's je hebt gevolgd, welke certificaten je hebt behaald \(include screenshots!\)
+* Wat je over de dingen denkt (zelfreflectie) en wat je denkt over uw process hierin
+* Hoe het loopt of niet loopt (wat gaat er goed, wat gaat er slecht)
+* Welke learning video's je hebt gevolgd, welke certificaten je hebt behaald (include screenshots!)
 * Indien van toepassing: welke badges je gehaald hebt.
 
-Dit portfolio wordt tijdens het examengesprek besproken met meerdere beoordelaars en deze zullen op basis van dit examengesprek en het ingeleverde portfolio een cijfer toekennen. Als het portfolio niet \(tijdig\) wordt ingediend, kan er geen examengesprek doorgaan.
+Dit portfolio wordt tijdens het examengesprek besproken met meerdere beoordelaars en deze zullen op basis van dit examengesprek en het ingeleverde portfolio een cijfer toekennen. Als het portfolio niet (tijdig) wordt ingediend, kan er geen examengesprek doorgaan.
 
 ## Evaluatie
 
