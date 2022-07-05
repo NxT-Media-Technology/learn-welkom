@@ -1,26 +1,59 @@
 site_name: Multimedia & Creatieve Technologie
-copyright: Copyright &copy; Karel de Grote Hogeschool
-repo_url: https://github.com/mctantwerp/learn-welkom
-repo_name: mctantwerp/learn-welkom
+site_url: https://learn.mctantwerp.be
+site_author: Sam Serrien
+site_description: lorem ipsum
 
-extra_css:
-  - _resources/styles/main.css
+repo_name: mctantwerp/learn-welkom
+repo_url: https://github.com/mctantwerp/learn-welkom
+
+copyright: Copyright &copy; Karel de Grote Hogeschool
 
 nav:
-  - "👋 Welkom": index.md
-  - "🎢 This is how we roll":
+  - 👋 Welkom: index.md
+  - 🎢 This is how we roll:
     - this-is-how-we-roll/index.md
     - this-is-how-we-roll/portfolio.md
     - this-is-how-we-roll/aanwezigheid.md
     - this-is-how-we-roll/portfolio-king-or-queen.md
-  - "🦸‍♂️ You rock!":
+  - 🦸‍♂️ You rock!:
     - you-rock/index.md
     - you-rock/bijdragen.md
     - you-rock/met-de-steun-van.md
-  - "📚 Cursussen per profiel":
+  - 📚 Cursussen per profiel:
     - profielen/web-developer.md
-  - "❓ Appendix":
+  - ❓ Appendix:
     - appendix/index.md
+
+theme:
+  name: material
+
+  logo: _resources/graphics/logo_full.png
+  favicon: _resources/graphics/favicon.ico
+
+  language: nl
+  features:
+    - navigation.tracking
+    - navigation.instant
+    - navigation.top
+    - navigation.indexes
+  icon:
+    repo: fontawesome/brands/github
+  palette:
+    primary: black
+    accent: cyan
+
+plugins:
+  - git-authors
+  - git-revision-date-localized:
+      enable_creation_date: true
+      fallback_to_build_date: true
+  - git-committers:
+      repository: mctantwerp/learn-welkom
+      branch: develop
+      token: !!python/object/apply:os.getenv ["MKDOCS_GIT_COMMITTERS_APIKEY"]
+
+extra_css:
+  - _resources/styles/main.css
 
 markdown_extensions:
   - admonition
@@ -48,23 +81,6 @@ markdown_extensions:
         - name: mermaid
           class: mermaid
           format: !!python/name:pymdownx.superfences.fence_code_format
-
-
-theme:
-  name: material
-  logo: _resources/graphics/logo_full.png
-  favicon: _resources/graphics/favicon.ico
-  language: nl
-  features:
-    - navigation.tracking
-    - navigation.instant
-    - navigation.top
-    - navigation.indexes
-  icon:
-    repo: fontawesome/brands/github
-  palette:
-    primary: black
-    accent: cyan
 
 extra:
   consent:
