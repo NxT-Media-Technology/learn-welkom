@@ -9,5 +9,4 @@
 
 ### Website of andere bronnen die gebruikt zijn voor het opstellen van de inhoud
 
-[https://www.starkstate.edu/](https://www.starkstate.edu/)
-
+* [https://www.starkstate.edu/](https://www.starkstate.edu/)
