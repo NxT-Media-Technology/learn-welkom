@@ -63,12 +63,14 @@ markdown_extensions:
   - md_in_html
   - pymdownx.details
   - pymdownx.inlinehilite
-  - pymdownx.superfences
   - pymdownx.critic
   - pymdownx.caret
   - pymdownx.keys
   - pymdownx.mark
   - pymdownx.tilde
+  - tables
+  - pymdownx.tabbed:
+      alternate_style: true
   - pymdownx.highlight:
       anchor_linenums: true
   - pymdownx.tasklist:

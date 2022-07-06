@@ -1,23 +1,94 @@
 ## Buttons
 
-[Nibh Ultricies](#){ .md-button }
+=== "Example"
 
-[Elit Quam](#){ .md-button .md-button--primary }
+    [Nibh Ultricies](#){ .md-button }
 
-[Venenatis Etiam :fontawesome-solid-paper-plane:](#){ .md-button }
+=== "Code"
 
-[Elit Quam :material-arrow-right:](#){ .md-button .md-button--primary }
+    ```md
+    [Nibh Ultricies](#){ .md-button }
+    ```
+
+---
+
+=== "Example"
+
+    [Elit Quam](#){ .md-button .md-button--primary }
+
+=== "Code"
+
+    ```md
+    [Elit Quam](#){ .md-button .md-button--primary }
+    ```
+
+---
+
+=== "Example"
+
+    [Venenatis Etiam :fontawesome-solid-paper-plane:](#){ .md-button }
+
+=== "Code"
+
+    ```md
+    [Venenatis Etiam :fontawesome-solid-paper-plane:](#){ .md-button }
+    ```
+
+---
+
+=== "Example"
+
+    [Elit Quam :material-arrow-right:](#){ .md-button .md-button--primary }
+
+=== "Code"
+
+    ```md
+    [Elit Quam :material-arrow-right:](#){ .md-button .md-button--primary }
+    ```
 
 ## Info, Alert and warning boxes
 
-!!! info "Aenean lacinia bibendum nulla sed consectetur."
-    Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Donec sed odio dui. Curabitur blandit tempus porttitor. Cras mattis consectetur purus sit amet fermentum.
+=== "Example"
 
-??? info "Aenean lacinia bibendum nulla sed consectetur."
-    Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Donec sed odio dui. Curabitur blandit tempus porttitor. Cras mattis consectetur purus sit amet fermentum.
+    !!! info "Aenean lacinia bibendum nulla sed consectetur."
+        Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Donec sed odio dui. Curabitur blandit tempus porttitor. Cras mattis consectetur purus sit amet fermentum.
 
-???+ info "Aenean lacinia bibendum nulla sed consectetur."
-    Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Donec sed odio dui. Curabitur blandit tempus porttitor. Cras mattis consectetur purus sit amet fermentum.
+=== "Code"
+
+    ```md
+    !!! info "Aenean lacinia bibendum nulla sed consectetur."
+        Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Donec sed odio dui. Curabitur blandit tempus porttitor. Cras mattis consectetur purus sit amet fermentum.
+    ```
+
+---
+
+=== "Example"
+
+    ??? info "Aenean lacinia bibendum nulla sed consectetur."
+        Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Donec sed odio dui. Curabitur blandit tempus porttitor. Cras mattis consectetur purus sit amet fermentum.
+
+=== "Code"
+
+    ```md
+    ??? info "Aenean lacinia bibendum nulla sed consectetur."
+        Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Donec sed odio dui. Curabitur blandit tempus porttitor. Cras mattis consectetur purus sit amet fermentum.
+    ```
+
+---
+
+=== "Example"
+
+    ???+ info "Aenean lacinia bibendum nulla sed consectetur."
+        Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Donec sed odio dui. Curabitur blandit tempus porttitor. Cras mattis consectetur purus sit amet fermentum.
+
+=== "Code"
+
+    ```md
+    ???+ info "Aenean lacinia bibendum nulla sed consectetur."
+        Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Donec sed odio dui. Curabitur blandit tempus porttitor. Cras mattis consectetur purus sit amet fermentum.
+    ```
+
+---
 
 !!! note "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
     Nullam id dolor id nibh ultricies vehicula ut id elit. Donec id elit non mi porta gravida at eget metus. Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
@@ -48,39 +119,81 @@ Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus
 
 ## Tabs
 
-=== "C"
+=== "Example"
 
-    ``` c
-    #include <stdio.h>
+    === "C"
 
-    int main(void) {
-      printf("Hello world!\n");
-      return 0;
-    }
+        ``` c
+        #include <stdio.h>
+
+        int main(void) {
+        printf("Hello world!\n");
+        return 0;
+        }
+        ```
+
+    === "C++"
+
+        ``` c++
+        #include <iostream>
+
+        int main(void) {
+        std::cout << "Hello world!" << std::endl;
+        return 0;
+        }
+        ```
+
+    === "Unordered list"
+
+        * Sed sagittis eleifend rutrum
+        * Donec vitae suscipit est
+        * Nulla tempor lobortis orci
+
+    === "Ordered list"
+
+        1. Sed sagittis eleifend rutrum
+        2. Donec vitae suscipit est
+        3. Nulla tempor lobortis orci
+
+=== "Code"
+
+    ```md
+    === "C"
+
+        ``` c
+        #include <stdio.h>
+
+        int main(void) {
+        printf("Hello world!\n");
+        return 0;
+        }
+        ```
+
+    === "C++"
+
+        ``` c++
+        #include <iostream>
+
+        int main(void) {
+        std::cout << "Hello world!" << std::endl;
+        return 0;
+        }
+        ```
+
+    === "Unordered list"
+
+        * Sed sagittis eleifend rutrum
+        * Donec vitae suscipit est
+        * Nulla tempor lobortis orci
+
+    === "Ordered list"
+
+        1. Sed sagittis eleifend rutrum
+        2. Donec vitae suscipit est
+        3. Nulla tempor lobortis orci
     ```
 
-=== "C++"
-
-    ``` c++
-    #include <iostream>
-
-    int main(void) {
-      std::cout << "Hello world!" << std::endl;
-      return 0;
-    }
-    ```
-
-=== "Unordered list"
-
-    * Sed sagittis eleifend rutrum
-    * Donec vitae suscipit est
-    * Nulla tempor lobortis orci
-
-=== "Ordered list"
-
-    1. Sed sagittis eleifend rutrum
-    2. Donec vitae suscipit est
-    3. Nulla tempor lobortis orci
+---
 
 !!! example
 
@@ -356,3 +469,29 @@ Lorem ipsum[^1] dolor sit amet, consectetur adipiscing elit.[^2]
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
     nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
     massa, nec semper lorem quam in massa.
+
+## Tables
+
+| Method      | Description                          |
+| ----------- | ------------------------------------ |
+| `GET`       | :material-check:     Fetch resource  |
+| `PUT`       | :material-check-all: Update resource |
+| `DELETE`    | :material-close:     Delete resource |
+
+| Method      | Description                          |
+| :---------- | :----------------------------------- |
+| `GET`       | :material-check:     Fetch resource  |
+| `PUT`       | :material-check-all: Update resource |
+| `DELETE`    | :material-close:     Delete resource |
+
+| Method      | Description                          |
+| :---------: | :----------------------------------: |
+| `GET`       | :material-check:     Fetch resource  |
+| `PUT`       | :material-check-all: Update resource |
+| `DELETE`    | :material-close:     Delete resource |
+
+| Method      | Description                          |
+| ----------: | -----------------------------------: |
+| `GET`       | :material-check:     Fetch resource  |
+| `PUT`       | :material-check-all: Update resource |
+| `DELETE`    | :material-close:     Delete resource |
