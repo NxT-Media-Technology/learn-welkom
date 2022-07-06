@@ -1,0 +1,125 @@
+site_name: Multimedia & Creatieve Technologie
+site_url: https://learn.mctantwerp.be
+site_author: Sam Serrien
+site_description: lorem ipsum
+
+repo_name: mctantwerp/learn-welkom
+repo_url: https://github.com/mctantwerp/learn-welkom
+
+copyright: Copyright &copy; Karel de Grote Hogeschool
+
+nav:
+  - 👋 Welkom: index.md
+  - 🎢 This is how we roll:
+    - this-is-how-we-roll/index.md
+    - this-is-how-we-roll/portfolio.md
+    - this-is-how-we-roll/aanwezigheid.md
+    - this-is-how-we-roll/portfolio-king-or-queen.md
+  - 🦸‍♂️ You rock!:
+    - you-rock/index.md
+    - you-rock/bijdragen.md
+    - you-rock/met-de-steun-van.md
+  - 📚 Cursussen per profiel:
+    - profielen/web-developer.md
+  - ❓ Appendix:
+    - appendix/index.md
+  - "🧱 Kitchensink": kitchensink.md
+
+theme:
+  name: material
+
+  logo: _resources/graphics/logo_full.png
+  favicon: _resources/graphics/favicon.ico
+
+  language: nl
+  features:
+    - navigation.tracking
+    - navigation.instant
+    - navigation.top
+    - navigation.indexes
+    - content.code.annotate
+    - search.highlight
+    - search.share
+    - search.suggest
+
+  icon:
+    repo: fontawesome/brands/github
+  palette:
+    primary: black
+    accent: cyan
+
+plugins:
+  - search
+  - git-authors
+  - git-revision-date-localized:
+      enable_creation_date: true
+      fallback_to_build_date: true
+  - git-committers:
+      repository: mctantwerp/learn-welkom
+      branch: develop
+      token: !!python/object/apply:os.getenv ["MKDOCS_GIT_COMMITTERS_APIKEY"]
+
+extra_css:
+  - _resources/styles/main.css
+
+markdown_extensions:
+  - admonition
+  - footnotes
+  - attr_list
+  - def_list
+  - md_in_html
+  - pymdownx.details
+  - pymdownx.inlinehilite
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
+  - tables
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+
+extra:
+  analytics:
+    provider: google
+    property: G-ZZW6S6EENR
+    feedback:
+      title: Was this page helpful?
+      ratings:
+        - icon: material/emoticon-happy-outline
+          name: This page was helpful
+          data: 1
+          note: >-
+            Thanks for your feedback!
+        - icon: material/emoticon-sad-outline
+          name: This page could be improved
+          data: 0
+          note: >-
+            Thanks for your feedback! Help us improve this page by
+            using our <a href="..." target=_blank>feedback form</a>.
+  generator: false
+  social:
+    - icon: fontawesome/brands/instagram
+      link: https://www.instagram.com/mct.kdg/
+    - icon: fontawesome/brands/youtube
+      link: https://www.youtube.com/channel/UCVcQd6yzdN9kW16sXuN_8zQ
+    - icon: fontawesome/brands/github
+      link: https://github.com/mctantwerp
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/school/karel-de-grote-hogeschool/
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/mctantwerp
+    - icon: fontawesome/brands/vimeo
+      link: https://vimeo.com/mctantwerp
