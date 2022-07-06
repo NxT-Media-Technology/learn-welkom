@@ -1,3 +1,5 @@
+# 🧱 Kitchensink
+
 ## Buttons
 
 === "Example"
@@ -10,7 +12,7 @@
     [Nibh Ultricies](#){ .md-button }
     ```
 
----
+<br>
 
 === "Example"
 
@@ -22,7 +24,7 @@
     [Elit Quam](#){ .md-button .md-button--primary }
     ```
 
----
+<br>
 
 === "Example"
 
@@ -34,7 +36,7 @@
     [Venenatis Etiam :fontawesome-solid-paper-plane:](#){ .md-button }
     ```
 
----
+<br>
 
 === "Example"
 
@@ -60,7 +62,7 @@
         Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Donec sed odio dui. Curabitur blandit tempus porttitor. Cras mattis consectetur purus sit amet fermentum.
     ```
 
----
+<br>
 
 === "Example"
 
@@ -74,7 +76,7 @@
         Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Donec sed odio dui. Curabitur blandit tempus porttitor. Cras mattis consectetur purus sit amet fermentum.
     ```
 
----
+<br>
 
 === "Example"
 
@@ -88,34 +90,123 @@
         Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Donec sed odio dui. Curabitur blandit tempus porttitor. Cras mattis consectetur purus sit amet fermentum.
     ```
 
----
+<br>
 
-!!! note "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
-    Nullam id dolor id nibh ultricies vehicula ut id elit. Donec id elit non mi porta gravida at eget metus. Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
+=== "Example"
 
-!!! question "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
-    Nullam id dolor id nibh ultricies vehicula ut id elit. Donec id elit non mi porta gravida at eget metus. Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
+    !!! note "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+        Nullam id dolor id nibh ultricies vehicula ut id elit. Donec id elit non mi porta gravida at eget metus. Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
 
-!!! fail "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
-    Nullam id dolor id nibh ultricies vehicula ut id elit. Donec id elit non mi porta gravida at eget metus. Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
+=== "Code"
 
-!!! example "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
-    Nullam id dolor id nibh ultricies vehicula ut id elit. Donec id elit non mi porta gravida at eget metus. Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
+    ```md
+    !!! note "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+        Nullam id dolor id nibh ultricies vehicula ut id elit. Donec id elit non mi porta gravida at eget metus. Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
+    ```
 
-!!! warning "Maecenas sed diam eget risus varius blandit sit amet non magna."
-    Aenean lacinia bibendum nulla sed consectetur. Nullam id dolor id nibh ultricies vehicula ut id elit. Sed posuere consectetur est at lobortis. Donec ullamcorper nulla non metus auctor fringilla.
+<br>
 
-!!! error "Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor."
-    Curabitur blandit tempus porttitor. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Maecenas faucibus mollis interdum. Etiam porta sem malesuada magna mollis euismod.
+=== "Example"
 
-!!! quote "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
-    Nullam id dolor id nibh ultricies vehicula ut id elit. Donec id elit non mi porta gravida at eget metus. Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
+    !!! question "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+        Nullam id dolor id nibh ultricies vehicula ut id elit. Donec id elit non mi porta gravida at eget metus. Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
 
-!!! info inline end
+=== "Code"
 
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod nulla. Curabitur feugiat, torto non consequat finibus, justo purus auctor massa, nec semper lorem quam in massa.
+    ```md
+    !!! question "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+        Nullam id dolor id nibh ultricies vehicula ut id elit. Donec id elit non mi porta gravida at eget metus. Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
+    ```
 
-Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
+<br>
+
+=== "Example"
+
+    !!! fail "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+        Nullam id dolor id nibh ultricies vehicula ut id elit. Donec id elit non mi porta gravida at eget metus. Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
+
+=== "Code"
+
+    ```md
+    !!! fail "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+        Nullam id dolor id nibh ultricies vehicula ut id elit. Donec id elit non mi porta gravida at eget metus. Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
+    ```
+
+<br>
+
+=== "Example"
+
+    !!! example "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+        Nullam id dolor id nibh ultricies vehicula ut id elit. Donec id elit non mi porta gravida at eget metus. Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
+
+=== "Code"
+
+    ```md
+    !!! example "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+        Nullam id dolor id nibh ultricies vehicula ut id elit. Donec id elit non mi porta gravida at eget metus. Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
+    ```
+
+<br>
+
+=== "Example"
+
+    !!! warning "Maecenas sed diam eget risus varius blandit sit amet non magna."
+        Aenean lacinia bibendum nulla sed consectetur. Nullam id dolor id nibh ultricies vehicula ut id elit. Sed posuere consectetur est at lobortis. Donec ullamcorper nulla non metus auctor fringilla.
+
+=== "Code"
+
+    ```md
+    !!! warning "Maecenas sed diam eget risus varius blandit sit amet non magna."
+        Aenean lacinia bibendum nulla sed consectetur. Nullam id dolor id nibh ultricies vehicula ut id elit. Sed posuere consectetur est at lobortis. Donec ullamcorper nulla non metus auctor fringilla.
+    ```
+
+<br>
+
+=== "Example"
+
+    !!! error "Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor."
+        Curabitur blandit tempus porttitor. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Maecenas faucibus mollis interdum. Etiam porta sem malesuada magna mollis euismod.
+
+=== "Code"
+
+    ```md
+    !!! error "Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor."
+        Curabitur blandit tempus porttitor. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Maecenas faucibus mollis interdum. Etiam porta sem malesuada magna mollis euismod.
+    ```
+
+<br>
+
+=== "Example"
+
+    !!! quote "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+        Nullam id dolor id nibh ultricies vehicula ut id elit. Donec id elit non mi porta gravida at eget metus. Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
+
+=== "Code"
+
+    ```md
+    !!! quote "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+        Nullam id dolor id nibh ultricies vehicula ut id elit. Donec id elit non mi porta gravida at eget metus. Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
+    ```
+
+<br>
+
+=== "Example"
+
+    !!! info inline end
+
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod nulla. Curabitur feugiat, torto non consequat finibus, justo purus auctor massa, nec semper lorem quam in massa.
+
+    Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
+
+=== "Code"
+
+    ```md
+    !!! info inline end
+
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod nulla. Curabitur feugiat, torto non consequat finibus, justo purus auctor massa, nec semper lorem quam in massa.
+
+    Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
+    ```
 
 ## Tabs
 
@@ -193,305 +284,809 @@ Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus
         3. Nulla tempor lobortis orci
     ```
 
----
+<br>
 
-!!! example
+=== "Example"
 
-    === "Unordered List"
+    !!! example
 
-        ``` markdown
-        * Sed sagittis eleifend rutrum
-        * Donec vitae suscipit est
-        * Nulla tempor lobortis orci
-        ```
+        === "Unordered List"
 
-    === "Ordered List"
+            ``` markdown
+            * Sed sagittis eleifend rutrum
+            * Donec vitae suscipit est
+            * Nulla tempor lobortis orci
+            ```
 
-        ``` markdown
-        1. Sed sagittis eleifend rutrum
-        2. Donec vitae suscipit est
-        3. Nulla tempor lobortis orci
-        ```
+        === "Ordered List"
+
+            ``` markdown
+            1. Sed sagittis eleifend rutrum
+            2. Donec vitae suscipit est
+            3. Nulla tempor lobortis orci
+            ```
+=== "Code"
+
+    ```md
+        !!! example
+
+            === "Unordered List"
+
+                ``` markdown
+                * Sed sagittis eleifend rutrum
+                * Donec vitae suscipit est
+                * Nulla tempor lobortis orci
+                ```
+
+            === "Ordered List"
+
+                ``` markdown
+                1. Sed sagittis eleifend rutrum
+                2. Donec vitae suscipit est
+                3. Nulla tempor lobortis orci
+                ```
+    ```
 
 ## Annotations
 
-Lorem ipsum dolor sit amet, (1) consectetur adipiscing elit.
-{ .annotate }
-
-1.  :man_raising_hand: I'm an annotation! I can contain `code`, __formatted
-    text__, images, ... basically anything that can be expressed in Markdown.
-
-!!! note annotate "Phasellus posuere in sem ut cursus (1)"
-
-    Lorem ipsum dolor sit amet, (2) consectetur adipiscing elit. Nulla et
-    euismod nulla. Curabitur feugiat, tortor non consequat finibus, justo
-    purus auctor massa, nec semper lorem quam in massa.
-
-1.  :man_raising_hand: I'm an annotation!
-2.  :woman_raising_hand: I'm an annotation as well!
-
-=== "Tab 1"
+=== "Example"
 
     Lorem ipsum dolor sit amet, (1) consectetur adipiscing elit.
     { .annotate }
 
-    1.  :man_raising_hand: I'm an annotation!
+    1.  :man_raising_hand: I'm an annotation! I can contain `code`, __formatted
+        text__, images, ... basically anything that can be expressed in Markdown.
 
-=== "Tab 2"
+=== "Code"
 
-    Phasellus posuere in sem ut cursus (1)
+    ```md
+    Lorem ipsum dolor sit amet, (1) consectetur adipiscing elit.
     { .annotate }
 
-    1.  :woman_raising_hand: I'm an annotation as well!
+    1.  :man_raising_hand: I'm an annotation! I can contain `code`, __formatted
+        text__, images, ... basically anything that can be expressed in Markdown.
+    ```
+
+<br>
+
+=== "Example"
+
+    !!! note annotate "Phasellus posuere in sem ut cursus (1)"
+
+        Lorem ipsum dolor sit amet, (2) consectetur adipiscing elit. Nulla et
+        euismod nulla. Curabitur feugiat, tortor non consequat finibus, justo
+        purus auctor massa, nec semper lorem quam in massa.
+
+    1.  :man_raising_hand: I'm an annotation!
+    2.  :woman_raising_hand: I'm an annotation as well!
+
+=== "Code"
+
+    ```md
+    !!! note annotate "Phasellus posuere in sem ut cursus (1)"
+
+        Lorem ipsum dolor sit amet, (2) consectetur adipiscing elit. Nulla et
+        euismod nulla. Curabitur feugiat, tortor non consequat finibus, justo
+        purus auctor massa, nec semper lorem quam in massa.
+
+    1.  :man_raising_hand: I'm an annotation!
+    2.  :woman_raising_hand: I'm an annotation as well!
+    ```
+
+<br>
+
+=== "Example"
+
+    === "Tab 1"
+
+        Lorem ipsum dolor sit amet, (1) consectetur adipiscing elit.
+        { .annotate }
+
+        1.  :man_raising_hand: I'm an annotation!
+
+    === "Tab 2"
+
+        Phasellus posuere in sem ut cursus (1)
+        { .annotate }
+
+        1.  :woman_raising_hand: I'm an annotation as well!
+
+=== "Code"
+
+    ```md
+    === "Tab 1"
+
+        Lorem ipsum dolor sit amet, (1) consectetur adipiscing elit.
+        { .annotate }
+
+        1.  :man_raising_hand: I'm an annotation!
+
+    === "Tab 2"
+
+        Phasellus posuere in sem ut cursus (1)
+        { .annotate }
+
+        1.  :woman_raising_hand: I'm an annotation as well!
+    ```
 
 ## Code blocks
 
-``` py
-import tensorflow as tf
-```
+=== "Example"
 
-``` py title="bubble_sort.py"
-def bubble_sort(items):
-    for i in range(len(items)):
-        for j in range(len(items) - 1 - i):
-            if items[j] > items[j + 1]:
-                items[j], items[j + 1] = items[j + 1], items[j]
-```
+    ``` py
+    import tensorflow as tf
+    ```
 
-``` yaml
-theme:
-  features:
-    - content.code.annotate # (1)
-```
+=== "Code"
 
-1.  :man_raising_hand: I'm a code annotation! I can contain `code`, __formatted
-    text__, images, ... basically anything that can be written in Markdown.
+    ````md
+    ```py
+    import tensorflow as tf
+    ```
+    ````
 
-``` py hl_lines="2 3"
-def bubble_sort(items):
-    for i in range(len(items)):
-        for j in range(len(items) - 1 - i):
-            if items[j] > items[j + 1]:
-                items[j], items[j + 1] = items[j + 1], items[j]
-```
+<br>
 
-The `#!python range()` function is used to generate a sequence of numbers.
+=== "Example"
+
+    ```py title="bubble_sort.py"
+    def bubble_sort(items):
+        for i in range(len(items)):
+            for j in range(len(items) - 1 - i):
+                if items[j] > items[j + 1]:
+                    items[j], items[j + 1] = items[j + 1], items[j]
+    ```
+
+=== "Code"
+
+    ````md
+    ```py title="bubble_sort.py"
+    def bubble_sort(items):
+        for i in range(len(items)):
+            for j in range(len(items) - 1 - i):
+                if items[j] > items[j + 1]:
+                    items[j], items[j + 1] = items[j + 1], items[j]
+    ```
+    ````
+
+<br>
+
+=== "Example"
+
+    ``` yaml
+    theme:
+    features:
+        - content.code.annotate # (1)!
+    ```
+
+    1.  :man_raising_hand: I'm a code annotation! I can contain `code`, __formatted
+        text__, images, ... basically anything that can be written in Markdown.
+
+=== "Code"
+
+    ````md
+    ``` yaml
+    theme:
+    features:
+        - content.code.annotate # (1)!
+    ```
+
+    1.  :man_raising_hand: I'm a code annotation! I can contain `code`, __formatted
+        text__, images, ... basically anything that can be written in Markdown.
+    ````
+
+<br>
+
+=== "Example"
+
+    ``` py hl_lines="2 3"
+    def bubble_sort(items):
+        for i in range(len(items)):
+            for j in range(len(items) - 1 - i):
+                if items[j] > items[j + 1]:
+                    items[j], items[j + 1] = items[j + 1], items[j]
+    ```
+
+=== "Code"
+
+    ````md
+    ``` py hl_lines="2 3"
+    def bubble_sort(items):
+        for i in range(len(items)):
+            for j in range(len(items) - 1 - i):
+                if items[j] > items[j + 1]:
+                    items[j], items[j + 1] = items[j + 1], items[j]
+    ```
+    ````
+
+<br>
+
+=== "Example"
+
+    The `#!python range()` function is used to generate a sequence of numbers.
+
+=== "Code"
+
+    ```md
+    The `#!python range()` function is used to generate a sequence of numbers.
+    ```
 
 ## Flowcharts / Diagrams
 
-``` mermaid
-graph LR
-  A[Start] --> B{Error?};
-  B -->|Yes| C[Hmm...];
-  C --> D[Debug];
-  D --> B;
-  B ---->|No| E[Yay!];
-```
+=== "Example"
 
-``` mermaid
-classDiagram
-  Person <|-- Student
-  Person <|-- Professor
-  Person : +String name
-  Person : +String phoneNumber
-  Person : +String emailAddress
-  Person: +purchaseParkingPass()
-  Address "1" <-- "0..1" Person:lives at
-  class Student{
-    +int studentNumber
-    +int averageMark
-    +isEligibleToEnrol()
-    +getSeminarsTaken()
-  }
-  class Professor{
-    +int salary
-  }
-  class Address{
-    +String street
-    +String city
-    +String state
-    +int postalCode
-    +String country
-    -validate()
-    +outputAsLabel()
-  }
-```
+    ``` mermaid
+    graph LR
+    A[Start] --> B{Error?};
+    B -->|Yes| C[Hmm...];
+    C --> D[Debug];
+    D --> B;
+    B ---->|No| E[Yay!];
+    ```
+
+=== "Code"
+
+    ````md
+    ```mermaid
+    graph LR
+    A[Start] --> B{Error?};
+    B -->|Yes| C[Hmm...];
+    C --> D[Debug];
+    D --> B;
+    B ---->|No| E[Yay!];
+    ```
+    ````
+
+<br>
+
+=== "Example"
+
+    ``` mermaid
+    classDiagram
+    Person <|-- Student
+    Person <|-- Professor
+    Person : +String name
+    Person : +String phoneNumber
+    Person : +String emailAddress
+    Person: +purchaseParkingPass()
+    Address "1" <-- "0..1" Person:lives at
+    class Student{
+        +int studentNumber
+        +int averageMark
+        +isEligibleToEnrol()
+        +getSeminarsTaken()
+    }
+    class Professor{
+        +int salary
+    }
+    class Address{
+        +String street
+        +String city
+        +String state
+        +int postalCode
+        +String country
+        -validate()
+        +outputAsLabel()
+    }
+    ```
+
+=== "Code"
+
+    ````md
+    ```mermaid
+    classDiagram
+    Person <|-- Student
+    Person <|-- Professor
+    Person : +String name
+    Person : +String phoneNumber
+    Person : +String emailAddress
+    Person: +purchaseParkingPass()
+    Address "1" <-- "0..1" Person:lives at
+    class Student{
+        +int studentNumber
+        +int averageMark
+        +isEligibleToEnrol()
+        +getSeminarsTaken()
+    }
+    class Professor{
+        +int salary
+    }
+    class Address{
+        +String street
+        +String city
+        +String state
+        +int postalCode
+        +String country
+        -validate()
+        +outputAsLabel()
+    }
+    ```
+    ````
 
 ## Formatting
 
-Text can be {--deleted--} and replacement text {++added++}. This can also be
-combined into {~~one~>a single~~} operation. {==Highlighting==} is also
-possible {>>and comments can be added inline<<}.
+=== "Example"
 
-{==
+    Text can be {--deleted--} and replacement text {++added++}. This can also be
+    combined into {~~one~>a single~~} operation. {==Highlighting==} is also
+    possible {>>and comments can be added inline<<}.
 
-Formatting can also be applied to blocks by putting the opening and closing
-tags on separate lines and adding new lines between the tags and the content.
+=== "Code"
 
-==}
+    ```md
+    Text can be {--deleted--} and replacement text {++added++}. This can also be
+    combined into {~~one~>a single~~} operation. {==Highlighting==} is also
+    possible {>>and comments can be added inline<<}.
+    ```
 
-- ==This was marked==
-- ^^This was inserted^^
-- ~~This was deleted~~
+<br>
 
-- H~2~O
-- A^T^A
+=== "Example"
 
-++ctrl+alt+del++
+    {==
 
-++cmd+shift+p++
+    Formatting can also be applied to blocks by putting the opening and closing
+    tags on separate lines and adding new lines between the tags and the content.
+
+    ==}
+
+=== "Code"
+
+    ```md
+    {==
+
+    Formatting can also be applied to blocks by putting the opening and closing
+    tags on separate lines and adding new lines between the tags and the content.
+
+    ==}
+    ```
+
+<br>
+
+=== "Example"
+
+    - ==This was marked==
+    - ^^This was inserted^^
+    - ~~This was deleted~~
+
+    - H~2~O
+    - A^T^A
+
+=== "Code"
+
+    ```md
+    - ==This was marked==
+    - ^^This was inserted^^
+    - ~~This was deleted~~
+
+    - H~2~O
+    - A^T^A
+    ```
+
+<br>
+
+=== "Example"
+
+    ++ctrl+alt+del++
+
+    ++cmd+shift+p++
+
+=== "Code"
+
+    ```md
+    ++ctrl+alt+del++
+
+    ++cmd+shift+p++
+    ```
+
+<br>
 
 ## Grids
 
-<div class="grid cards" markdown>
-- :fontawesome-brands-html5: __HTML__ for content and structure
-- :fontawesome-brands-js: __JavaScript__ for interactivity
-- :fontawesome-brands-css3: __CSS__ for text running out of boxes
-- :fontawesome-brands-internet-explorer: __Internet Explorer__ ... huh?
-</div>
+=== "Example"
 
-<div class="grid cards" markdown>
--   :material-clock-fast:{ .lg .middle } __Set up in 5 minutes__
+    <div class="grid cards" markdown>
 
-    ---
+    - :fontawesome-brands-html5: __HTML__ for content and structure
+    - :fontawesome-brands-js: __JavaScript__ for interactivity
+    - :fontawesome-brands-css3: __CSS__ for text running out of boxes
+    - :fontawesome-brands-internet-explorer: __Internet Explorer__ ... huh?
 
-    Install [`mkdocs-material`](#) with [`pip`](#) and get up
-    and running in minutes
+    </div>
 
-    [:octicons-arrow-right-24: Getting started](#)
+=== "Code"
 
--   :fontawesome-brands-markdown:{ .lg .middle } __It's just Markdown__
+    ```html
+    <div class="grid cards" markdown>
 
-    ---
+    - :fontawesome-brands-html5: __HTML__ for content and structure
+    - :fontawesome-brands-js: __JavaScript__ for interactivity
+    - :fontawesome-brands-css3: __CSS__ for text running out of boxes
+    - :fontawesome-brands-internet-explorer: __Internet Explorer__ ... huh?
 
-    Focus on your content and generate a responsive and searchable static site
+    </div>
+    ```
 
-    [:octicons-arrow-right-24: Reference](#)
+<br>
 
--   :material-format-font:{ .lg .middle } __Made to measure__
+=== "Example"
 
-    ---
+    <div class="grid cards" markdown>
 
-    Change the colors, fonts, language, icons, logo and more with a few lines
+    -   :material-clock-fast:{ .lg .middle } __Set up in 5 minutes__
 
-    [:octicons-arrow-right-24: Customization](#)
+        ---
 
--   :material-scale-balance:{ .lg .middle } __Open Source, MIT__
+        Install [`mkdocs-material`](#) with [`pip`](#) and get up
+        and running in minutes
 
-    ---
+        [:octicons-arrow-right-24: Getting started](#)
 
-    Material for MkDocs is licensed under MIT and available on [GitHub]
+    -   :fontawesome-brands-markdown:{ .lg .middle } __It's just Markdown__
 
-    [:octicons-arrow-right-24: License](#)
-</div>
+        ---
 
-<div class="grid" markdown>
+        Focus on your content and generate a responsive and searchable static site
 
-:fontawesome-brands-html5: __HTML__ for content and structure
-{ .card }
+        [:octicons-arrow-right-24: Reference](#)
 
-:fontawesome-brands-js: __JavaScript__ for interactivity
-{ .card }
+    -   :material-format-font:{ .lg .middle } __Made to measure__
 
-:fontawesome-brands-css3: __CSS__ for text running out of boxes
-{ .card }
+        ---
 
-> :fontawesome-brands-internet-explorer: __Internet Explorer__ ... huh?
+        Change the colors, fonts, language, icons, logo and more with a few lines
 
-</div>
+        [:octicons-arrow-right-24: Customization](#)
+
+    -   :material-scale-balance:{ .lg .middle } __Open Source, MIT__
+
+        ---
+
+        Material for MkDocs is licensed under MIT and available on [GitHub]
+
+        [:octicons-arrow-right-24: License](#)
+
+    </div>
+
+=== "Code"
+
+    ```html
+    <div class="grid cards" markdown>
+
+    -   :material-clock-fast:{ .lg .middle } __Set up in 5 minutes__
+
+        ---
+
+        Install [`mkdocs-material`](#) with [`pip`](#) and get up
+        and running in minutes
+
+        [:octicons-arrow-right-24: Getting started](#)
+
+    -   :fontawesome-brands-markdown:{ .lg .middle } __It's just Markdown__
+
+        ---
+
+        Focus on your content and generate a responsive and searchable static site
+
+        [:octicons-arrow-right-24: Reference](#)
+
+    -   :material-format-font:{ .lg .middle } __Made to measure__
+
+        ---
+
+        Change the colors, fonts, language, icons, logo and more with a few lines
+
+        [:octicons-arrow-right-24: Customization](#)
+
+    -   :material-scale-balance:{ .lg .middle } __Open Source, MIT__
+
+        ---
+
+        Material for MkDocs is licensed under MIT and available on [GitHub]
+
+        [:octicons-arrow-right-24: License](#)
+
+    </div>
+    ```
+
+<br>
+
+=== "Example"
+
+    <div class="grid" markdown>
+
+    :fontawesome-brands-html5: __HTML__ for content and structure
+    { .card }
+
+    :fontawesome-brands-js: __JavaScript__ for interactivity
+    { .card }
+
+    :fontawesome-brands-css3: __CSS__ for text running out of boxes
+    { .card }
+
+    > :fontawesome-brands-internet-explorer: __Internet Explorer__ ... huh?
+
+    </div>
+
+=== "Code"
+
+    ```html
+    <div class="grid" markdown>
+
+    :fontawesome-brands-html5: __HTML__ for content and structure
+    { .card }
+
+    :fontawesome-brands-js: __JavaScript__ for interactivity
+    { .card }
+
+    :fontawesome-brands-css3: __CSS__ for text running out of boxes
+    { .card }
+
+    > :fontawesome-brands-internet-explorer: __Internet Explorer__ ... huh?
+
+    </div>
+    ```
 
 ## Images
 
-![Image title](https://dummyimage.com/600x400/eee/aaa){ width="200", align=left }
+=== "Example"
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    ![Image title](https://dummyimage.com/600x400/eee/aaa){ width="200", align=left }
 
-<figure markdown>
-  ![Image title](https://dummyimage.com/600x400/){ width="300" }
-  <figcaption>Image caption</figcaption>
-</figure>
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+
+=== "Code"
+
+    ```md
+    ![Image title](https://dummyimage.com/600x400/eee/aaa){ width="200", align=left }
+
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    ```
+
+<br>
+
+=== "Example"
+
+    <figure markdown>
+    ![Image title](https://dummyimage.com/600x400/){ width="300" }
+    <figcaption>Image caption</figcaption>
+    </figure>
+
+=== "Code"
+
+    ```html
+    <figure markdown>
+        ![Image title](https://dummyimage.com/600x400/){ width="300" }
+        <figcaption>Image caption</figcaption>
+    </figure>
+    ```
 
 ## Lists
 
-- Nulla et rhoncus turpis. Mauris ultricies elementum leo. Duis efficitur
-  accumsan nibh eu mattis. Vivamus tempus velit eros, porttitor placerat nibh
-  lacinia sed. Aenean in finibus diam.
+=== "Example"
 
-    * Duis mollis est eget nibh volutpat, fermentum aliquet dui mollis.
-    * Nam vulputate tincidunt fringilla.
-    * Nullam dignissim ultrices urna non auctor.
+    - Nulla et rhoncus turpis. Mauris ultricies elementum leo. Duis efficitur
+        accumsan nibh eu mattis. Vivamus tempus velit eros, porttitor placerat nibh
+        lacinia sed. Aenean in finibus diam.
 
-1.  Vivamus id mi enim. Integer id turpis sapien. Ut condimentum lobortis
-    sagittis. Aliquam purus tellus, faucibus eget urna at, iaculis venenatis
-    nulla. Vivamus a pharetra leo.
+        * Duis mollis est eget nibh volutpat, fermentum aliquet dui mollis.
+        * Nam vulputate tincidunt fringilla.
+        * Nullam dignissim ultrices urna non auctor.
 
-    1.  Vivamus venenatis porttitor tortor sit amet rutrum. Pellentesque aliquet
-        quam enim, eu volutpat urna rutrum a. Nam vehicula nunc mauris, a
-        ultricies libero efficitur sed.
+=== "Code"
 
-    2.  Morbi eget dapibus felis. Vivamus venenatis porttitor tortor sit amet
-        rutrum. Pellentesque aliquet quam enim, eu volutpat urna rutrum a.
+    ```md
+    - Nulla et rhoncus turpis. Mauris ultricies elementum leo. Duis efficitur
+        accumsan nibh eu mattis. Vivamus tempus velit eros, porttitor placerat nibh
+        lacinia sed. Aenean in finibus diam.
 
-        1.  Mauris dictum mi lacus
-        2.  Ut sit amet placerat ante
-        3.  Suspendisse ac eros arcu
+        * Duis mollis est eget nibh volutpat, fermentum aliquet dui mollis.
+        * Nam vulputate tincidunt fringilla.
+        * Nullam dignissim ultrices urna non auctor.
+    ```
 
-`Lorem ipsum dolor sit amet`
+<br>
 
-:   Sed sagittis eleifend rutrum. Donec vitae suscipit est. Nullam tempus
-    tellus non sem sollicitudin, quis rutrum leo facilisis.
+=== "Example"
 
-`Cras arcu libero`
+    1.  Vivamus id mi enim. Integer id turpis sapien. Ut condimentum lobortis
+        sagittis. Aliquam purus tellus, faucibus eget urna at, iaculis venenatis
+        nulla. Vivamus a pharetra leo.
 
-:   Aliquam metus eros, pretium sed nulla venenatis, faucibus auctor ex. Proin
-    ut eros sed sapien ullamcorper consequat. Nunc ligula ante.
+        1.  Vivamus venenatis porttitor tortor sit amet rutrum. Pellentesque aliquet
+            quam enim, eu volutpat urna rutrum a. Nam vehicula nunc mauris, a
+            ultricies libero efficitur sed.
 
-    Duis mollis est eget nibh volutpat, fermentum aliquet dui mollis.
-    Nam vulputate tincidunt fringilla.
-    Nullam dignissim ultrices urna non auctor.
+        2.  Morbi eget dapibus felis. Vivamus venenatis porttitor tortor sit amet
+            rutrum. Pellentesque aliquet quam enim, eu volutpat urna rutrum a.
 
-- [x] Lorem ipsum dolor sit amet, consectetur adipiscing elit
-- [ ] Vestibulum convallis sit amet nisi a tincidunt
-    * [x] In hac habitasse platea dictumst
-    * [x] In scelerisque nibh non dolor mollis congue sed et metus
-    * [ ] Praesent sed risus massa
-- [ ] Aenean pretium efficitur erat, donec pharetra, ligula non scelerisque
+            1.  Mauris dictum mi lacus
+            2.  Ut sit amet placerat ante
+            3.  Suspendisse ac eros arcu
+
+=== "Code"
+
+    ```md
+    1.  Vivamus id mi enim. Integer id turpis sapien. Ut condimentum lobortis
+        sagittis. Aliquam purus tellus, faucibus eget urna at, iaculis venenatis
+        nulla. Vivamus a pharetra leo.
+
+        1.  Vivamus venenatis porttitor tortor sit amet rutrum. Pellentesque aliquet
+            quam enim, eu volutpat urna rutrum a. Nam vehicula nunc mauris, a
+            ultricies libero efficitur sed.
+
+        2.  Morbi eget dapibus felis. Vivamus venenatis porttitor tortor sit amet
+            rutrum. Pellentesque aliquet quam enim, eu volutpat urna rutrum a.
+
+            1.  Mauris dictum mi lacus
+            2.  Ut sit amet placerat ante
+            3.  Suspendisse ac eros arcu
+    ```
+
+<br>
+
+=== "Example"
+
+    `Lorem ipsum dolor sit amet`
+
+    :   Sed sagittis eleifend rutrum. Donec vitae suscipit est. Nullam tempus
+        tellus non sem sollicitudin, quis rutrum leo facilisis.
+
+    `Cras arcu libero`
+
+    :   Aliquam metus eros, pretium sed nulla venenatis, faucibus auctor ex. Proin
+        ut eros sed sapien ullamcorper consequat. Nunc ligula ante.
+
+        Duis mollis est eget nibh volutpat, fermentum aliquet dui mollis.
+        Nam vulputate tincidunt fringilla.
+        Nullam dignissim ultrices urna non auctor.
+
+=== "Code"
+
+    ```md
+    `Lorem ipsum dolor sit amet`
+
+    :   Sed sagittis eleifend rutrum. Donec vitae suscipit est. Nullam tempus
+        tellus non sem sollicitudin, quis rutrum leo facilisis.
+
+    `Cras arcu libero`
+
+    :   Aliquam metus eros, pretium sed nulla venenatis, faucibus auctor ex. Proin
+        ut eros sed sapien ullamcorper consequat. Nunc ligula ante.
+
+        Duis mollis est eget nibh volutpat, fermentum aliquet dui mollis.
+        Nam vulputate tincidunt fringilla.
+        Nullam dignissim ultrices urna non auctor.
+    ```
+
+<br>
+
+=== "Example"
+
+    - [x] Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    - [ ] Vestibulum convallis sit amet nisi a tincidunt
+        * [x] In hac habitasse platea dictumst
+        * [x] In scelerisque nibh non dolor mollis congue sed et metus
+        * [ ] Praesent sed risus massa
+    - [ ] Aenean pretium efficitur erat, donec pharetra, ligula non scelerisque
+
+=== "Code"
+
+    ```md
+    - [x] Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    - [ ] Vestibulum convallis sit amet nisi a tincidunt
+        * [x] In hac habitasse platea dictumst
+        * [x] In scelerisque nibh non dolor mollis congue sed et metus
+        * [ ] Praesent sed risus massa
+    - [ ] Aenean pretium efficitur erat, donec pharetra, ligula non scelerisque
+    ```
 
 ## Footnotes
 
-Lorem ipsum[^1] dolor sit amet, consectetur adipiscing elit.[^2]
+=== "Example"
 
-[^1]: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    Lorem ipsum[^1] dolor sit amet, consectetur adipiscing elit.[^2]
 
-[^2]:
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
-    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
-    massa, nec semper lorem quam in massa.
+    [^1]: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+
+    [^2]:
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
+        nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
+        massa, nec semper lorem quam in massa.
+
+=== "Code"
+
+    ```md
+    Lorem ipsum[^1] dolor sit amet, consectetur adipiscing elit.[^2]
+
+    [^1]: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+
+    [^2]:
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
+        nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
+        massa, nec semper lorem quam in massa.
+    ```
 
 ## Tables
 
-| Method      | Description                          |
-| ----------- | ------------------------------------ |
-| `GET`       | :material-check:     Fetch resource  |
-| `PUT`       | :material-check-all: Update resource |
-| `DELETE`    | :material-close:     Delete resource |
+=== "Example"
 
-| Method      | Description                          |
-| :---------- | :----------------------------------- |
-| `GET`       | :material-check:     Fetch resource  |
-| `PUT`       | :material-check-all: Update resource |
-| `DELETE`    | :material-close:     Delete resource |
+    | Method      | Description                          |
+    | ----------- | ------------------------------------ |
+    | `GET`       | :material-check:     Fetch resource  |
+    | `PUT`       | :material-check-all: Update resource |
+    | `DELETE`    | :material-close:     Delete resource |
 
-| Method      | Description                          |
-| :---------: | :----------------------------------: |
-| `GET`       | :material-check:     Fetch resource  |
-| `PUT`       | :material-check-all: Update resource |
-| `DELETE`    | :material-close:     Delete resource |
+=== "Code"
 
-| Method      | Description                          |
-| ----------: | -----------------------------------: |
-| `GET`       | :material-check:     Fetch resource  |
-| `PUT`       | :material-check-all: Update resource |
-| `DELETE`    | :material-close:     Delete resource |
+    ```md
+    | Method      | Description                          |
+    | ----------- | ------------------------------------ |
+    | `GET`       | :material-check:     Fetch resource  |
+    | `PUT`       | :material-check-all: Update resource |
+    | `DELETE`    | :material-close:     Delete resource |
+    ```
+
+<br>
+
+=== "Example"
+
+    | Method      | Description                          |
+    | :---------- | :----------------------------------- |
+    | `GET`       | :material-check:     Fetch resource  |
+    | `PUT`       | :material-check-all: Update resource |
+    | `DELETE`    | :material-close:     Delete resource |
+
+=== "Code"
+
+    ```md
+    | Method      | Description                          |
+    | :---------- | :----------------------------------- |
+    | `GET`       | :material-check:     Fetch resource  |
+    | `PUT`       | :material-check-all: Update resource |
+    | `DELETE`    | :material-close:     Delete resource |
+    ```
+
+<br>
+
+=== "Example"
+
+    | Method      | Description                          |
+    | :---------: | :----------------------------------: |
+    | `GET`       | :material-check:     Fetch resource  |
+    | `PUT`       | :material-check-all: Update resource |
+    | `DELETE`    | :material-close:     Delete resource |
+
+=== "Code"
+
+    ```md
+    | Method      | Description                          |
+    | :---------: | :----------------------------------: |
+    | `GET`       | :material-check:     Fetch resource  |
+    | `PUT`       | :material-check-all: Update resource |
+    | `DELETE`    | :material-close:     Delete resource |
+    ```
+
+<br>
+
+=== "Example"
+
+    | Method      | Description                          |
+    | ----------: | -----------------------------------: |
+    | `GET`       | :material-check:     Fetch resource  |
+    | `PUT`       | :material-check-all: Update resource |
+    | `DELETE`    | :material-close:     Delete resource |
+
+=== "Code"
+
+    ```md
+    | Method      | Description                          |
+    | ----------: | -----------------------------------: |
+    | `GET`       | :material-check:     Fetch resource  |
+    | `PUT`       | :material-check-all: Update resource |
+    | `DELETE`    | :material-close:     Delete resource |
+    ```
