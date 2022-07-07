@@ -1,13 +1,13 @@
 site_name: Multimedia & Creatieve Technologie
 site_url: https://learn.mctantwerp.be
 site_author: Sam Serrien
-site_description: lorem ipsum
+site_description: Online cursus bibliotheek van Multimedia & Creatieve Technologie
 
 repo_name: mctantwerp/learn-welkom
 repo_url: https://github.com/mctantwerp/learn-welkom
 edit_uri: edit/main/docs/
 
-copyright: Copyright &copy; Karel de Grote Hogeschool
+copyright: Karel de Grote Hogeschool<br>Multimedia & Creatieve Technologie
 
 nav:
   - 👋 Welkom: index.md
@@ -62,6 +62,9 @@ plugins:
 
 extra_css:
   - _resources/styles/main.css
+
+extra_javascript:
+  - _resources/scripts/main.js
 
 markdown_extensions:
   - admonition
