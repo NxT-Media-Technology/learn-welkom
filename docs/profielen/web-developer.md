@@ -17,7 +17,7 @@
 
 | Hoofdstuk | Omschrijving |
 | :--- | :--- |
-| [CSS basics](#) | Coming soon(-ish) |
+| [CSS basics](https://css.basics.learn.mctantwerp.be) | Je HTML pagina opmaken met CSS |
 | [React basics](#) | Coming soon(-ish) |
 
 ### 🤓 Backend development
