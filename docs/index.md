@@ -10,6 +10,8 @@ Welkom bij de online cursus bibliotheek van Karel de Grote Hogeschool - Multimed
   <figcaption><a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">https://creativecommons.org/licenses/by-nc/4.0/</a></figcaption>
 </figure>
 
+!!! question "Vragen? Voorstellen? Feedback?"
+    Studenten, bedrijven en supporters zijn zeer welkom via de [github discussies](https://github.com/mctantwerp/learn-welkom/discussions){:target="_blank"}. Als je ons graag rechtstreeks wil contacteren kan je altijd mailen naar [sam.serrien@kdg.be](mailto:sam.serrien@kdg.be).
 
 ## Portfolio's? Hoe werkt dat?
 
