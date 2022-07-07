@@ -2,24 +2,7 @@
 
 ## Bedrijven, alumni, ... We need you!
 
-!!! info ""
-    Het idee achter deze publieke online cursus is dat deze verrijkt kan worden door alumni en werkveld.
-
-Heb je tijd en zin om ons te **helpen** om binnen onze **cursussen** de puntjes op de ‘i’ te zetten? Of wil je **bijdragen** door je **expertise** te **delen** om bij te dragen bij aan de opleiding van onze student en op die manier de opleiding voor onze studenten kwaliteitsvoller te maken? **Dat kan!**
-
-Snelle aanpassingen kan je doen door een **pull request** te doen met de gewenste changes. Wil je **meer doen** en een **hoofdstuk of mini course** toevoegen? Ook dat kan! Contacteer [sam.serrien@kdg.be](mailto:sam.serrien@kdg.be) om een **account** op onze **gitbook** te krijgen zodat je gebruik kan maken van al de **rijke features** die deze software biedt.
-
-!!! info ""
-    Op elke pagina staat er een :fontawesome-solid-pen: door hier op te klikken kan je de gewenste pagina snel kan terugvinden op github.
-
-Je vindt al onze cursussen terug op [github.com/mctantwerp](https://github.com/mctantwerp), de repositories van onze cursussen starten allemaal met **"learn-**" in hun naam.
-
-!!! info ""
-    Markdown hulp nodig? Zie [https://commonmark.org/help/](https://commonmark.org/help/){:target="_blank"}
-
-    Voor de specifieke MkDocs/Material theme mogelijkheden in markdown kan je hier terecht: [https://squidfunk.github.io/mkdocs-material/reference/](https://squidfunk.github.io/mkdocs-material/reference/){:target="_blank"}
-
-### Nog meer bijdragen?
+### Bijdragen?
 
 !!! info ""
     Maar wat dan? en hoe? en is dat niet kei veel werk? Waarom zou ik dat doen?

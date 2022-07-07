@@ -1,9 +1,3 @@
----
-description: >-
-  Een oplijsting van wie allemaal al heeft bijgedragen aan learn.mctantwerp.be
-  en onze opleiding.
----
-
 # 🙏 Met de steun van...
 
 ## Mensen
@@ -32,4 +26,3 @@ Als we dan toch bezig zijn ook een extra dank u aan deze bedrijven die samenwerk
 * [Lunar](https://lunar.be/)
 * [Spatie](https://spatie.be)
 * [Wunderman Thompson](https://www.wundermanthompson.com/belgium)
-

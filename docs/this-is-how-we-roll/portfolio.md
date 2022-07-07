@@ -8,7 +8,7 @@
 * Er zullen verschillende momenten voorzien worden om je portfolio in te sturen zodat wij, de docenten, daar feedback op kunnen geven.
   * Afhankelijk van het aantal studenten kan het altijd even duren eer je feedback krijgt. Be patient! We doen ons best om altijd iedereen van feedback te voorzien.
   * Niet ingestuurd via canvas = geen feedback
-* Bekijk ook zeker de tips & tricks voor een goed portfolio
+* Bekijk ook zeker de [tips & tricks](../portfolio-king-or-queen) voor een goed portfolio
 * Grote codeblokken houd je op [github](https://github.com) en niet in je portfolio.
 
 [Become a portfolio King or Queen :material-arrow-right:](../portfolio-king-or-queen){ .md-button }

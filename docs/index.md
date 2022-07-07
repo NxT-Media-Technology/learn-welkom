@@ -1,6 +1,6 @@
 # 👋 Welkom
 
-Welkom bij de online cursus bibliotheek van Karel de Grote Hogeschool - Multimedia & Creatieve Technologie. Op deze pagina vind je een overzicht van alle profielen en online cursussen die op dit platform.
+Welkom bij de online cursus bibliotheek van Karel de Grote Hogeschool - Multimedia & Creatieve Technologie. Op deze pagina vind je een overzicht van alle profielen en online cursussen die op ons platform beschikbaar zijn.
 
 !!! warning "Opgelet"
     De beschikbare cursussen zijn publiek toegankelijk en beschikbaar onder de creative common licentie. ([Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/){:target="_blank"}) Het kan echter zijn dat op bepaalde momenten wordt verwezen naar filmpjes op het grow platform, deze zijn enkel voor studenten van de Karel de Grote Hogeschool beschikbaar.
@@ -13,7 +13,7 @@ Welkom bij de online cursus bibliotheek van Karel de Grote Hogeschool - Multimed
 
 ## Portfolio's? Hoe werkt dat?
 
-Chances are dat je nog nooit met een portfolio hebt gewerkt om je leerproces te documenteren. Hier vind je enkele tips en tricks en welke rubric \(evaluatie methode\) we gebruiken om je te evalueren.
+Chances are dat je nog nooit met een portfolio hebt gewerkt om je leerproces te documenteren. Hier vind je enkele tips en tricks en welke rubric (evaluatie methode) we gebruiken om je te evalueren.
 
 [This is how we roll :material-arrow-right:](this-is-how-we-roll/){ .md-button .md-button--primary }
 
