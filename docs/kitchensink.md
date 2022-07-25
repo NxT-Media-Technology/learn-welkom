@@ -1090,3 +1090,15 @@
     | `PUT`       | :material-check-all: Update resource |
     | `DELETE`    | :material-close:     Delete resource |
     ```
+
+## Usefull stuff
+
+=== "Link naar externe pagina"
+
+    [Some link text](#){:target="_blank"}
+
+=== "Code"
+
+    ```md
+    [Some link text](#){:target="_blank"}
+    ```
