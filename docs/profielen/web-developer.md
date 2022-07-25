@@ -36,7 +36,7 @@
 | [Web security](#) | Coming soon(-ish) |
 | [Devops basics](#) | Coming soon(-ish) |
 | [Hosting Basics](#) | Coming soon(-ish) <!-- Alles dat je moet weten rond hosting om je website online te kunnen zetten. --> |
-| [Web Performance](#) | Coming soon(-ish) <!-- Alle tips & tricks om je website zo performant mogelijk te maken --> |
+| [Web Performance](https://web-performance.learn.mctantwerp.be) | Tips & Tricks om de performantie van je website te meten en te verbeteren |
 | [Web development](#) | Coming soon(-ish) <!-- Hoe begin ik aan een web development project? (erd, flow diagrams, ...) --> |
 
 ## Epic LvL
