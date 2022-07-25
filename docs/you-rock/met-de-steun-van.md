@@ -4,9 +4,9 @@
 
 Deze mensen hebben persoonlijk bijgedragen tot [learn.mctantwerp.be](https://learn.mctantwerp.be) en dus de groei van onze studenten.
 
-* [Sam Serrien](https://www.linkedin.com/in/samserrien/)
-* [Alessandro Aussems](https://www.linkedin.com/in/alessandroaussems/)
-* [Bram Verdyck](https://www.linkedin.com/in/bramverdyck/)
+* [Sam Serrien](https://www.linkedin.com/in/samserrien/){:target="_blank"}
+* [Alessandro Aussems](https://www.linkedin.com/in/alessandroaussems/){:target="_blank"}
+* [Bram Verdyck](https://www.linkedin.com/in/bramverdyck/){:target="_blank"}
 
 ## Bedrijven
 
@@ -14,7 +14,7 @@ Deze bedrijven hebben persoonlijk bijgedragen tot [learn.mctantwerp.be](https://
 
 | :star::star::star:  |
 |---|
-| [Karel de Grote Hogeschool](https://www.kdg.be) |
+| [Karel de Grote Hogeschool](https://www.kdg.be){:target="_blank"} |
 
 ## Hall of fame
 

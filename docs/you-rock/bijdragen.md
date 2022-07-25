@@ -13,7 +13,7 @@ Wil je **meer doen** en een **hoofdstuk of mini course** toevoegen? Ook dat kan!
 !!! info ""
     Op elke pagina staat er een :fontawesome-solid-pen: door hier op te klikken kan je de gewenste pagina snel kan terugvinden op github.
 
-Je vindt al onze cursussen terug op [github.com/mctantwerp](https://github.com/mctantwerp), de repositories van onze cursussen starten allemaal met **"learn-**" in hun naam.
+Je vindt al onze cursussen terug op [github.com/mctantwerp](https://github.com/orgs/mctantwerp/repositories?q=learn-&type=all&language=&sort=){:target="_blank"}, de repositories van onze cursussen starten allemaal met **"learn-**" in hun naam.
 
 !!! info ""
     Markdown hulp nodig? Zie [https://commonmark.org/help/](https://commonmark.org/help/){:target="_blank"}

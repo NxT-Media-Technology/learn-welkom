@@ -17,8 +17,8 @@
 
 | Hoofdstuk | Omschrijving |
 | :--- | :--- |
-| [CSS basics](https://css.basics.learn.mctantwerp.be) | Je HTML pagina opmaken met CSS |
-| [React basics](https://css.basics.learn.mctantwerp.be) | Introductie in de javascript library React |
+| [CSS basics](https://css.basics.learn.mctantwerp.be){:target="_blank"} | Je HTML pagina opmaken met CSS |
+| [React basics](https://css.basics.learn.mctantwerp.be){:target="_blank"} | Introductie in de javascript library React |
 
 ### 🤓 Backend development
 
@@ -36,7 +36,7 @@
 | [Web security](#) | Coming soon(-ish) |
 | [Devops basics](#) | Coming soon(-ish) |
 | [Hosting Basics](#) | Coming soon(-ish) <!-- Alles dat je moet weten rond hosting om je website online te kunnen zetten. --> |
-| [Web Performance](https://web-performance.learn.mctantwerp.be) | Tips & Tricks om de performantie van je website te meten en te verbeteren |
+| [Web Performance](https://web-performance.learn.mctantwerp.be){:target="_blank"} | Tips & Tricks om de performantie van je website te meten en te verbeteren |
 | [Web development](#) | Coming soon(-ish) <!-- Hoe begin ik aan een web development project? (erd, flow diagrams, ...) --> |
 
 ## Epic LvL

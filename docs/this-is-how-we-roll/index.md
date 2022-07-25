@@ -38,7 +38,7 @@ Dit portfolio wordt tijdens het examengesprek besproken met meerdere beoordelaar
 
 Een goede leidraad voor hoe je zelf kan beoordelen of uw portfolio voldoende "body" heeft. Uiteraard werkt de scoring bij ons net wat anders maar voor zelf evaluatie een ideale tool!
 
-_Bron:_ [_Stark State college_](https://www.starkstate.edu/)
+_Bron:_ [_Stark State college_](https://www.starkstate.edu/){:target="_blank"}
 
 ![](/_resources/images/rubric.jpg)
 
