@@ -17,16 +17,16 @@ Welkom bij de online cursus bibliotheek van Karel de Grote Hogeschool - Multimed
 
 Chances are dat je nog nooit met een portfolio hebt gewerkt om je leerproces te documenteren. Hier vind je enkele tips en tricks en welke rubric (evaluatie methode) we gebruiken om je te evalueren.
 
-[This is how we roll :material-arrow-right:](this-is-how-we-roll/){ .md-button .md-button--primary }
+[This is how we roll :material-arrow-right:](/this-is-how-we-roll/){ .md-button .md-button--primary }
 
 ## Bedrijven, alumni, ... We need you!
 
 Het idee achter deze publieke online cursus is dat deze verrijkt kan worden door alumni en werkveld. Klik snel door en lees how you can rock our world! 🙌
 
-[You rock! :material-arrow-right:](you-rock/){ .md-button .md-button--primary }
+[You rock! :material-arrow-right:](/you-rock/){ .md-button .md-button--primary }
 
 ## Profielen
 
 Onder de profielen kan je alle beschikbare online cursussen vinden.
 
-[Profielen :material-arrow-right:](you-rock/){ .md-button .md-button--primary }
+[Profielen :material-arrow-right:](/profielen/web-developer/){ .md-button .md-button--primary }
